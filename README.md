@@ -1,4 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=SooJIN%20&reversal=false&descAlign=50&textBg=false&fontSize=65&animation=twinkling&rotate=-10&fontColor=0CE5DB)
+
 ### Hi there 👋 I'm Soosembly
+안녕하세요, 저는 주니어 데이터 사이언티스트로서 데이터 분석과 머신 러닝 분야에서 경력을 쌓아가고 있습니다.
+</br>
+Hi, I'm a junior data scientist pursuing a career in data analytics and machine learning.
+
 
 
 

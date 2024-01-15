@@ -44,7 +44,7 @@ Hi, I'm a junior data scientist pursuing a career in data analytics and machine 
 
 [🔗 Blog](https://greennesson.com/portfolio/)
 </br>
-[🔗 LinkdIn](https://www.linkedin.com/in/%E2%9D%9Dsoojin-son%E2%9D%9E/)
+[🔗 LinkedIn](https://www.linkedin.com/in/%E2%9D%9Dsoojin-son%E2%9D%9E/)
 
 </br></br></br>
 ## 🌱🌱🌱

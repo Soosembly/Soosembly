@@ -2,14 +2,23 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=SooJIN%20&reversal=false&descAlign=50&textBg=false&fontSize=65&animation=twinkling&rotate=-10&fontColor=0CE5DB)
 
-### Hi there 👋 I'm Soosembly
-안녕하세요, 저는 주니어 데이터 사이언티스트로서 데이터 분석과 머신 러닝 분야에서 경력을 쌓아가고 있습니다.
+### Hi there 👋🏻 I'm Soosembly
+주니어 데이터 사이언티스트로서 데이터 분석과 머신 러닝 분야에서 경력을 쌓아가고 있습니다.
 </br>
 Hi, I'm a junior data scientist pursuing a career in data analytics and machine learning.
 
 </div>
-</br></br>
 
+</br></br></br>
+## 👩🏻‍💻 Carrer
+
+| col1 | col2 | col3 |
+|---|---|---|
+| v1 | v2 | v3 |
+
+
+</br></br></br>
+## 🛠️ Skills
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/scipy-8CAAE6?style=flat&logo=scipy&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/keras-D00000?style=flat&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/> <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
@@ -21,34 +30,16 @@ Hi, I'm a junior data scientist pursuing a career in data analytics and machine 
  
 
 </br></br></br>
-### contact
-
-## test
-
-- test1
-- test2
-- test3
+## 📬 contact
 
 
 
+![title](link_uri)
+![github](https://github.com/gngsn)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</br></br></br>
+## 🌱🌱🌱
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 

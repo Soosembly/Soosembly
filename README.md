@@ -42,10 +42,9 @@ Hi, I'm a junior data scientist pursuing a career in data analytics and machine 
 </br></br></br>
 ## 📬 Contact
 
-
-
-![title](link_uri)
-![github](https://github.com/gngsn)
+[🔗Blog](https://greennesson.com/portfolio/)
+</br>
+[🔗LinkdIn](www.linkedin.com/in/❝soojin-son❞)
 
 
 </br></br></br>

@@ -1,6 +1,11 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=SooJIN%20&reversal=false&descAlign=50&textBg=false&fontSize=65&animation=twinkling&rotate=-10&fontColor=0CE5DB)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=SooJIN%20&desc=Junior%20Data%20Scientist&reversal=false&fontColor=0CE5DB&rotate=-10&strokeWidth=0&animation=twinkling&descAlign=50&descAlignY=65)
+
+
+
+
+
 
 ### Hi there 👋🏻 I'm Soosembly
 주니어 데이터 사이언티스트로서 데이터 분석과 머신 러닝 분야에서 경력을 쌓아가고 있습니다.

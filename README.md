@@ -33,7 +33,7 @@ Hi, I'm a junior data scientist pursuing a career in data analytics and machine 
 
 </br></br></br>
 ## 🧗🏻‍♀️ Tech Stack
-<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white"/>  <img src="https://img.shields.io/badge/scipy-8CAAE6?style=flat&logo=scipy&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> 
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white"/>  <img src="https://img.shields.io/badge/scipy-8CAAE6?style=flat&logo=scipy&logoColor=white"/> <img src="https://img.shields.io/badge/scikit%20learn-F7931E?style=flat&logo=scikit%20learn&logoColor=white"/> 
 ![matplotlib](http://img.shields.io/badge/-Matplotlib-FF6441?style=flat)
 ![seaborn](http://img.shields.io/badge/-Seaborn-1287B1?style=flat)
 

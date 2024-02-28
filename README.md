@@ -30,7 +30,7 @@ Hi, I'm a junior data scientist pursuing a career in data analytics and machine 
 
 | Task | Title | Host |
 |--|--|--|
-|동영상 로고(객체) 인페인팅|[Video-Inpainting](https://github.com/Soosembly/PJT-Video-Inpainting)|[커넥트브릭](https://connectbrick.com/) &[마인즈앤컴퍼니](https://mnc.ai/)|
+|동영상 로고(객체) 인페인팅|[Video-Inpainting](https://github.com/Soosembly/PJT-Video-Inpainting)|[커넥트브릭](https://connectbrick.com/) & [마인즈앤컴퍼니](https://mnc.ai/)|
 | 🍋 | 🍋 | 🍋 |
 | 🍒 | 🍒 | 🍒 |
 

@@ -42,18 +42,18 @@ Hi, I'm a junior data scientist pursuing a career in data analytics and machine 
 
 </br></br></br>
 ## 🧗🏻‍♀️ Tech Stack
-<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white"/>  <img src="https://img.shields.io/badge/scipy-8CAAE6?style=flat&logo=scipy&logoColor=white"/> <img src="https://img.shields.io/badge/scikit%20learn-F7931E?style=flat&logo=scikit%20learn&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/>  <img src="https://img.shields.io/badge/Scipy-8CAAE6?style=flat&logo=Scipy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit%20learn-F7931E?style=flat&logo=Scikit%20learn&logoColor=white"/> 
 ![matplotlib](http://img.shields.io/badge/-Matplotlib-FF6441?style=flat)
 ![seaborn](http://img.shields.io/badge/-Seaborn-1287B1?style=flat)
 
-<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/keras-D00000?style=flat&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/> <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/>
 ![Gradio](https://img.shields.io/badge/Gradio-FE7F01.svg?style=flat&logo=Gradio&logoColor=white)
-![Streamlit](https://img.shields.io/badge/streamlit-white.svg?style=flat&logo=streamlit&logoColor=ff4b4b)
+![Streamlit](https://img.shields.io/badge/Streamlit-white.svg?style=flat&logo=Streamlit&logoColor=ff4b4b)
 
 ### 🤸🏻‍♀️ Other Skills 
-<img src="https://img.shields.io/badge/autocad-E51050?style=flat&logo=autocad&logoColor=white"/> <img src="https://img.shields.io/badge/autodeskrevit-186BFF?style=flat&logo=autodeskrevit&logoColor=white"/> <img src="https://img.shields.io/badge/sketchup-005F9E?style=flat&logo=sketchup&logoColor=white"/> <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=Blender&logoColor=white"/>
+<img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=AutoCAD&logoColor=white"/> <img src="https://img.shields.io/badge/Autodesk Revit-186BFF?style=flat&logo=AutoDesk Revit&logoColor=white"/> <img src="https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white"/> <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=Blender&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/adobe-FF0000?style=flat&logo=adobe&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20indesign-FF3366?style=flat&logo=adobeindesign&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Indesign-FF3366?style=flat&logo=adobeindesign&logoColor=white"/>
 
 
  

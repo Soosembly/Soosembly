@@ -51,9 +51,10 @@ Hi, I'm a junior data scientist pursuing a career in data analytics and machine 
 ![Streamlit](https://img.shields.io/badge/streamlit-white.svg?style=flat&logo=streamlit&logoColor=ff4b4b)
 
 ### 🤸🏻‍♀️ Other Skills 
-<img src="https://img.shields.io/badge/autocad-E51050?style=flat&logo=autocad&logoColor=white"/> <img src="https://img.shields.io/badge/autodeskrevit-186BFF?style=flat&logo=autodeskrevit&logoColor=white"/> <img src="https://img.shields.io/badge/sketchup-005F9E?style=flat&logo=sketchup&logoColor=white"/>
+<img src="https://img.shields.io/badge/autocad-E51050?style=flat&logo=autocad&logoColor=white"/> <img src="https://img.shields.io/badge/autodeskrevit-186BFF?style=flat&logo=autodeskrevit&logoColor=white"/> <img src="https://img.shields.io/badge/sketchup-005F9E?style=flat&logo=sketchup&logoColor=white"/> <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=Blender&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/adobe-FF0000?style=flat&logo=adobe&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20indesign-FF3366?style=flat&logo=adobeindesign&logoColor=white"/>
+
 
  
 

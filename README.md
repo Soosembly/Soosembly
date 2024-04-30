@@ -8,9 +8,9 @@
 
 
 ### Hi there 👋🏻 I'm Soosembly
-주니어 데이터 사이언티스트로서 데이터 분석과 머신 러닝 분야에서 경력을 쌓아가고 있습니다.
+데이터 분석과 머신러닝 공부를 하고 있습니다
 </br>
-Hi, I'm a junior data scientist pursuing a career in data analytics and machine learning.
+I'm currently studying data analytics and machine learning.
 
 </div>
 

@@ -61,7 +61,7 @@ I'm currently studying data analytics and machine learning.
 </br></br></br>
 ## 📬 Contact
 
-[🔗 Blog_portfolio](https://greennesson.com/portfolio/)
+[🔗 Blog_portfolio]()
 </br>
 [🔗 LinkedIn](https://www.linkedin.com/in/%E2%9D%9Dsoojin-son%E2%9D%9E/)
 

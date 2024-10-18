@@ -44,7 +44,7 @@ I'm currently studying data analytics and machine learning.
 ## 🧗🏻‍♀️ Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/>  <img src="https://img.shields.io/badge/Scipy-8CAAE6?style=flat&logo=Scipy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit%20learn-F7931E?style=flat&logo=Scikit%20learn&logoColor=white"/> 
 ![matplotlib](http://img.shields.io/badge/-Matplotlib-FF6441?style=flat)
-![seaborn](http://img.shields.io/badge/-Seaborn-1287B1?style=flat)
+![seaborn](http://img.shields.io/badge/-Seaborn-1287B1?style=flat) <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/>
 ![Gradio](https://img.shields.io/badge/Gradio-FE7F01.svg?style=flat&logo=Gradio&logoColor=white)

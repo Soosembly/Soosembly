@@ -50,7 +50,8 @@ I'm currently studying data analytics and machine learning.
 ![Gradio](https://img.shields.io/badge/Gradio-FE7F01.svg?style=flat&logo=Gradio&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-white.svg?style=flat&logo=Streamlit&logoColor=ff4b4b)
 
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white"/>
+
 
 
 ### 🤸🏻‍♀️ Other Skills 

@@ -44,11 +44,14 @@ I'm currently studying data analytics and machine learning.
 ## 🧗🏻‍♀️ Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/>  <img src="https://img.shields.io/badge/Scipy-8CAAE6?style=flat&logo=Scipy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit%20learn-F7931E?style=flat&logo=Scikit%20learn&logoColor=white"/> 
 ![matplotlib](http://img.shields.io/badge/-Matplotlib-FF6441?style=flat)
-![seaborn](http://img.shields.io/badge/-Seaborn-1287B1?style=flat) <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+![seaborn](http://img.shields.io/badge/-Seaborn-1287B1?style=flat) 
 
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/>
 ![Gradio](https://img.shields.io/badge/Gradio-FE7F01.svg?style=flat&logo=Gradio&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-white.svg?style=flat&logo=Streamlit&logoColor=ff4b4b)
+
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
+
 
 ### 🤸🏻‍♀️ Other Skills 
 <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=AutoCAD&logoColor=white"/> <img src="https://img.shields.io/badge/Autodesk Revit-186BFF?style=flat&logo=AutoDesk Revit&logoColor=white"/> <img src="https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white"/> <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=Blender&logoColor=white"/>

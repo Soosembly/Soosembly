@@ -77,7 +77,7 @@ I'm currently studying data analytics and machine learning.
 
 
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+<!-- ![](./profile-3d-contrib/profile-gitblock.svg) -->
 
 
 

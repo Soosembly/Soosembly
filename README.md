@@ -72,6 +72,15 @@ I'm currently studying data analytics and machine learning.
 </br></br></br>
 ## 🌱🌱🌱
 
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{Soosembly}?pet-id=1" width="1000" height="120"/>
+</a>
+
+
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoosembly&count_bg=%230CE5DB&title_bg=%23B3BABA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 

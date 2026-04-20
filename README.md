@@ -31,18 +31,16 @@ I'm currently studying data analytics and machine learning.
 | Task | Title | Host |
 |--|--|--|
 |동영상 로고(객체) 인페인팅|[Video-Inpainting](https://github.com/Soosembly/PJT-Video-Inpainting)|커넥트브릭 & [마인즈앤컴퍼니](https://mnc.ai/)|
+|창호 자동 배치 및 제품 선택 통합 솔루션|[PS-revit-addin](https://github.com/PublicStatic26/PS-revit-addin)|BIM-IT융합|
 | 🍋 | 🍋 | 🍋 |
 | 🍒 | 🍒 | 🍒 |
 
 
 
 
-
-
-
 </br></br></br>
 ## 🧗🏻‍♀️ Tech Stack
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/>  <img src="https://img.shields.io/badge/Scipy-8CAAE6?style=flat&logo=Scipy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit%20learn-F7931E?style=flat&logo=Scikit%20learn&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/>  <img src="https://img.shields.io/badge/Scipy-8CAAE6?style=flat&logo=Scipy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit%20learn-F7931E?style=flat&logo=Scikit%20learn&logoColor=white"/> 
 ![matplotlib](http://img.shields.io/badge/-Matplotlib-FF6441?style=flat)
 ![seaborn](http://img.shields.io/badge/-Seaborn-1287B1?style=flat) 
 

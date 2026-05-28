@@ -53,7 +53,7 @@ I'm currently studying data analytics and machine learning.
 
 
 ### 🤸🏻‍♀️ Other Skills 
-<img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=AutoCAD&logoColor=white"/> <img src="https://img.shields.io/badge/Revit-186BFF?style=flat&logo=AutoDesk Revit&logoColor=white"/> <img src="https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white"/> <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=Blender&logoColor=white"/>
+<img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=AutoCAD&logoColor=white"/> <img src="https://img.shields.io/badge/AutodeskRevit-186BFF?style=flat&logo=AutoDeskRevit&logoColor=white"/> <img src="https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white"/> <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=Blender&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Indesign-FF3366?style=flat&logo=adobeindesign&logoColor=white"/>
 
